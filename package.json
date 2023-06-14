@@ -20,7 +20,7 @@
     "heroku"
   ],
   "scripts": {
-            "start": "node /server.js"
+            "start": "node server.js"
           },
   "files": [
     "lib/",
